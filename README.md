@@ -4,11 +4,6 @@ I build scalable, performance-focused web interfaces using React and TypeScript.
 
 ---
 
-## 🚀 Tech Stack
-React, JavaScript (ES6+), TypeScript, Redux, Context API, TailwindCSS, Vite.
-
----
-
 ## 🧑‍💻 About Me
 - 💼 Frontend Developer (React)
 - ⚛️ Strong in component-driven development
@@ -17,3 +12,10 @@ React, JavaScript (ES6+), TypeScript, Redux, Context API, TailwindCSS, Vite.
 - 📍 Open to Frontend / React Developer roles
 
 ---
+## 🚀 Tech Stack
+React, JavaScript (ES6+), TypeScript, Redux, Context API, TailwindCSS, Vite.
+
+___
+## ✉️ Connect With Me
+- Email: shivanikanswal@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shivani-kanswal-a44120173/
