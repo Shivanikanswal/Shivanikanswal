@@ -13,7 +13,7 @@ I build scalable, performance-focused web interfaces using React and TypeScript.
 
 ---
 ## 🚀 Tech Stack
-React, JavaScript (ES6+), TypeScript, Redux, Context API, TailwindCSS, Vite.
+React, JavaScript (ES6+), TypeScript, Redux, Context API, TailwindCSS, Vite, Storybook, Parcel.
 
 ___
 ## ✉️ Connect With Me
