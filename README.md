@@ -10,6 +10,7 @@ I build scalable, performance-focused web interfaces using React and TypeScript.
 - 🎨 Focused on clean UI & performance optimization
 - 🛠 Experience with REST APIs & modern tooling
 - 📍 Open to Frontend / React Developer roles
+- 🌱 Learning Next.js
 
 ---
 ## 🚀 Tech Stack
