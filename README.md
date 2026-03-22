@@ -5,12 +5,11 @@ I build scalable, performance-focused web interfaces using React and TypeScript.
 ---
 
 ## 🧑‍💻 About Me
-- 💼 Frontend Developer (React)
+- 💼 Frontend Developer (ReactJS & NextJS)
 - ⚛️ Strong in component-driven development
 - 🎨 Focused on clean UI & performance optimization
 - 🛠 Experience with REST APIs & modern tooling
 - 📍 Open to Frontend / React Developer roles
-- 🌱 Learning Next.js
 
 ---
 ## 🚀 Tech Stack
